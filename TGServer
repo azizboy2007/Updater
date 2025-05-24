@@ -1,5 +1,13 @@
 {
- "enabled":true,
- "link":"https://app.adjust.com/16zzmog7?deep_link=tongitsgo://ClubInvite_GnozTVVIPTGYTYs&campaign=GnozTVVIPTGYTYs",
- "wrong_path_link":"https://youtu.be/7f7poFf8RaM?si=VLgorWHBiZeWufP-"
+    "enabled": true,
+    "link": "https://app.adjust.com/16zzmog7?deep_link=tongitsgo://ClubInvite_GnozTVVIPTGYTYs&campaign=GnozTVVIPTGYTYs",
+    "wrong_path_link": "https://youtu.be/7f7poFf8RaM?si=VLgorWHBiZeWufP-",
+    "new_app": {
+        "enabled": false,
+        "title": "ZongHub GFX",
+        "message": "The new version of the ZongHub app is now available! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
+        "link": "ddjdjdjdjdjdjskskdjxjdjdjdjdjdjdjdj",
+        "cancelable": false,
+        "button_text": "Download"
+    }
 }
