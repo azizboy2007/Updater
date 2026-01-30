@@ -5,7 +5,7 @@
   "new_app": "yesyes",
 
   "update": {
-    "enabled": true,
+    "enabled": false,
     "title": "ZongHub GFX",
     "message": "The new version of the ZongHub rename into a New App Kaizerus GFX 2026! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
     "link": "https://play.google.com/store/apps/details?id=com.kaizerus.visualcore",
