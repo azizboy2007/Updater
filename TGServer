@@ -6,7 +6,7 @@
         "enabled": true,
         "title": "New Kaizerus App",
         "message": "The new version of the Kaizerus ! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
-        "link": "https://play.google.com/store/apps/details?id=com.kaizerus.visualcore",
+        "link": "https://play.google.com/store/apps/details?id=com.warlito.toolkit",
         "cancelable": false,
         "button_text": "Download"
     },
