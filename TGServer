@@ -6,15 +6,15 @@
         "enabled": true,
         "title": "New Kaizerus App",
         "message": "The new version of the Kaizerus ! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
-        "link": "https://play.google.com/store/apps/details?id=com.kaizokuo.gfx",
+        "link": "https://play.google.com/store/apps/details?id=com.mobalauncher.io",
         "cancelable": false,
         "button_text": "Download"
     },
     "update": {
-        "enabled": false,
+        "enabled": true,
         "title": "ZongHub GFX",
-        "message": "The new version of the ZongHub rename into a New App Kaizerus GFX 2026! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
-        "link": "https://play.google.com/store/apps/details?id=com.kaizokuo.gfx",
+        "message": "The new version of the ZongHub rename into a New App Moba Launcher 2026! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
+        "link": "https://play.google.com/store/apps/details?id=com.mobalauncher.io",
         "cancelable": false,
         "button_text": "Download"
     }
