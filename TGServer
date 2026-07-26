@@ -1,12 +1,12 @@
 {
     "enabled": false,
-    "link": "https://t.me/+VMQXDaa1vIplZjZl",
+    "link": "https://play.google.com/store/apps/details?id=com.metaforge.guide",
     "wrong_path_link": "https://youtu.be/G-8gvpl_CQA?si=lrsN478fUM1jaPmh",
     "kaizerus": {
         "enabled": true,
         "title": "New Kaizerus App",
         "message": "The new version of the Kaizerus ! This update brings improved performance, a smoother user experience, and new features to help you use it easily. Update now to enjoy the latest enhancements and stay connected effortlessly.",
-        "link": "https://play.google.com/store/apps/details?id=com.mobalauncher.io",
+        "link": "https://play.google.com/store/apps/details?id=com.metaforge.guide",
         "cancelable": false,
         "button_text": "Download"
     },
